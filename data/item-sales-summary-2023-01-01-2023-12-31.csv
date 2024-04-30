@@ -1,0 +1,590 @@
+Item Name,Item Variation,SKU,Category Rollup,Category,Items Sold,Gross Sales,Items Refunded,Refunds,Discounts & Comps,Net Sales,Tax,Unit,Units Sold,Units Refunded
+$12 Bottle,Regular,"",Beers,Bottled Beer,1,$12.00,0,$0.00,$0.00,$12.00,$1.03,ea,1,0
+$20 Bottle,Regular,"",Beers,Bottled Beer,2,$40.00,0,$0.00,$0.00,$40.00,$3.45,ea,2,0
+$30 Bottle,Regular,"",Beers,Bottled Beer,1,$30.00,0,$0.00,$0.00,$30.00,$2.59,ea,1,0
+$10 Can,Regular,"",Beers,Cans,9,$90.00,0,$0.00,$0.00,$90.00,$7.74,ea,9,0
+$16 4 Pack,Regular,"",Beers,Cans,1,$16.00,0,$0.00,-$3.20,$12.80,$1.11,ea,1,0
+$18 4 Pack,Regular,"",Beers,Cans,3,$54.00,0,$0.00,$0.00,$54.00,$4.65,ea,3,0
+$20 4 Pack,Regular,"",Beers,Cans,15,$300.00,0,$0.00,-$3.00,$297.00,$25.62,ea,15,0
+$22 4 Pack,Regular,"",Beers,Cans,59,"$1,298.00",0,$0.00,-$9.90,"$1,288.10",$107.31,ea,59,0
+$24 4 Pack,Regular,"",Beers,Cans,122,"$2,928.00",0,$0.00,-$48.00,"$2,880.00",$246.35,ea,122,0
+$26 4 Pack,Regular,"",Beers,Cans,55,"$1,430.00",-1,-$26.00,-$11.70,"$1,392.30",$120.07,ea,55,-1
+$28 4 Pack,Regular,"",Beers,Cans,13,$364.00,0,$0.00,$0.00,$364.00,$31.38,ea,13,0
+$30 4 Pack,Regular,"",Beers,Cans,12,$360.00,0,$0.00,$0.00,$360.00,$31.05,ea,12,0
+$4 Can,Regular,"",Beers,Cans,5,$20.00,0,$0.00,-$0.60,$19.40,$1.67,ea,5,0
+$5 Can,Regular,"",Beers,Cans,22,$110.00,0,$0.00,-$1.50,$108.50,$9.34,ea,22,0
+$6 Can,Regular,"",Beers,Cans,145,$870.00,0,$0.00,-$21.00,$849.00,$73.82,ea,145,0
+$7 Can,Regular,"",Beers,Cans,292,"$2,044.00",0,$0.00,-$1.05,"$2,042.95",$170.06,ea,292,0
+$8 Can,Regular,"",Beers,Cans,200,"$1,600.00",0,$0.00,-$24.00,"$1,576.00",$135.96,ea,200,0
+$9 Can,Regular,"",Beers,Cans,69,$621.00,0,$0.00,$0.00,$621.00,$53.63,ea,69,0
+$12 Crowler,Regular,"",Beers,Crowlers,4,$48.00,0,$0.00,$0.00,$48.00,$4.14,ea,4,0
+$14 Crowler,Regular,"",Beers,Crowlers,44,$616.00,0,$0.00,$0.00,$616.00,$53.16,ea,44,0
+$16 Crowler,Regular,"",Beers,Crowlers,19,$304.00,0,$0.00,$0.00,$304.00,$26.22,ea,19,0
+$18 Crowler,Regular,"",Beers,Crowlers,9,$162.00,0,$0.00,$0.00,$162.00,$13.97,ea,9,0
+$20 Crowler,Regular,"",Beers,Crowlers,6,$120.00,0,$0.00,$0.00,$120.00,$10.36,ea,6,0
+$22 Crowler,Regular,"",Beers,Crowlers,4,$88.00,0,$0.00,$0.00,$88.00,$5.70,ea,4,0
+$24 Crowler,Regular,"",Beers,Crowlers,1,$24.00,0,$0.00,$0.00,$24.00,$2.07,ea,1,0
+$25 Crowler,Regular,"",Beers,Crowlers,1,$25.00,0,$0.00,$0.00,$25.00,$2.16,ea,1,0
+$30 Crowler,Regular,"",Beers,Crowlers,3,$90.00,0,$0.00,$0.00,$90.00,$7.77,ea,3,0
+$32 Crowler,Regular,"",Beers,Crowlers,1,$32.00,0,$0.00,$0.00,$32.00,$2.76,ea,1,0
+$10 Beer,Regular,"",Beers,Draft Beer,1063,"$10,630.00",-10,-$100.00,-$131.00,"$10,399.00",$894.50,ea,1063,-10
+$11 Beer,Regular,"",Beers,Draft Beer,369,"$4,059.00",-2,-$22.00,-$36.30,"$4,000.70",$345.44,ea,369,-2
+$12 Beer,Regular,"",Beers,Draft Beer,2134,"$25,608.00",-8,-$96.00,-$179.73,"$25,332.27","$2,186.38",ea,2134,-8
+$13 Beer,Regular,"",Beers,Draft Beer,3,$39.00,0,$0.00,$0.00,$39.00,$3.36,ea,3,0
+$14 Beer,Regular,"",Beers,Draft Beer,1,$14.00,0,$0.00,$0.00,$14.00,$1.21,ea,1,0
+$3 SODA,Regular,"",Beers,Draft Beer,43,$129.00,0,$0.00,-$6.00,$123.00,$10.40,ea,43,0
+$4 SODA,Regular,"",Beers,Draft Beer,12,$48.00,0,$0.00,$0.00,$48.00,$4.13,ea,12,0
+$5 Beer,Regular,"",Beers,Draft Beer,582,"$2,910.00",0,$0.00,-$63.50,"$2,846.50",$244.15,ea,582,0
+$6 Beer,Regular,"",Beers,Draft Beer,140,$840.00,0,$0.00,-$9.30,$830.70,$70.50,ea,140,0
+$7 Beer,Regular,"",Beers,Draft Beer,202,"$1,414.00",0,$0.00,-$6.14,"$1,407.86",$119.89,ea,202,0
+$8 Beer,Regular,"",Beers,Draft Beer,495,"$3,960.00",-1,-$8.00,-$10.40,"$3,941.60",$337.90,ea,495,-1
+$9 Beer,Regular,"",Beers,Draft Beer,27028,"$243,252.00",-80,-$720.00,"-$2,796.32","$239,735.68","$20,633.06",ea,27028,-80
+1/2 pint,Regular,"",Beers,Draft Beer,564,"$2,820.00",0,$0.00,-$83.14,"$2,736.86",$233.79,ea,564,0
+Barebottle  Unsinkable Tartanic,Regular,"",Beers,Draft Beer,1,$9.00,0,$0.00,$0.00,$9.00,$0.78,ea,1,0
+Barebottle Club Haus,Regular,"",Beers,Draft Beer,1,$9.00,0,$0.00,$0.00,$9.00,$0.78,ea,1,0
+Barebottle hella Hetchy,Regular,"",Beers,Draft Beer,7,$63.00,0,$0.00,$0.00,$63.00,$5.44,ea,7,0
+Cellarmaker Mt. Cook,Regular,"",Beers,Draft Beer,1,$9.00,0,$0.00,$0.00,$9.00,$0.77,ea,1,0
+DeGarde Buveaux,Regular,"",Beers,Draft Beer,2,$24.00,0,$0.00,$0.00,$24.00,$2.07,ea,2,0
+Faction Rice Lager,Regular,"",Beers,Draft Beer,1,$9.00,0,$0.00,$0.00,$9.00,$0.77,ea,1,0
+Fair Isle Harlen,Regular,"",Beers,Draft Beer,1,$12.00,0,$0.00,$0.00,$12.00,$1.04,ea,1,0
+Fieldwork Castleford,Regular,"",Beers,Draft Beer,8,$72.00,0,$0.00,$0.00,$72.00,$6.24,ea,8,0
+Great Notion Double Stack,Regular,"",Beers,Draft Beer,2,$38.00,0,$0.00,$0.00,$38.00,$3.28,ea,2,0
+Great Notion Fury,Regular,"",Beers,Draft Beer,1,$9.00,0,$0.00,$0.00,$9.00,$0.78,ea,1,0
+Happy Hour Beer,Regular,"",Beers,Draft Beer,218,"$1,526.00",0,$0.00,-$13.30,"$1,512.70",$129.82,ea,218,0
+Humble Sea Atlas of Dark Seas,Regular,"",Beers,Draft Beer,1,$12.00,0,$0.00,$0.00,$12.00,$1.04,ea,1,0
+Moonlight Reality Czeck,Regular,"",Beers,Draft Beer,3,$27.00,0,$0.00,$0.00,$27.00,$2.33,ea,3,0
+Olfactory Pure Moods,Regular,"",Beers,Draft Beer,5,$45.00,0,$0.00,$0.00,$45.00,$3.88,ea,5,0
+Pohjala Marshmallow Island,Regular,"",Beers,Draft Beer,3,$36.00,0,$0.00,$0.00,$36.00,$3.11,ea,3,0
+Pohjala Mudcake Banger,Regular,"",Beers,Draft Beer,3,$36.00,0,$0.00,$0.00,$36.00,$3.12,ea,3,0
+Reality Czeck,Regular,"",Beers,Draft Beer,5,$45.00,0,$0.00,$0.00,$45.00,$3.90,ea,5,0
+STS Pils,Regular,"",Beers,Draft Beer,3,$27.00,0,$0.00,$0.00,$27.00,$2.33,ea,3,0
+Alchemist - Focal Banger,4 Pack - Take Home Only,"",Beers,Online Beer,1,$26.00,0,$0.00,$0.00,$26.00,$2.25,ea,1,0
+Alchemist - Focal Banger,Can - Take Home Only,"",Beers,Online Beer,6,$42.00,0,$0.00,$0.00,$42.00,$3.62,ea,6,0
+Allagash White,16oz draft,"",Beers,Online Beer,22,$198.00,0,$0.00,$0.00,$198.00,$17.11,ea,22,0
+Almanac - True Kolsch,Regular,"",Beers,Online Beer,6,$54.00,0,$0.00,$0.00,$54.00,$2.34,ea,6,0
+Almanac True Kolsch,16oz Draft,"",Beers,Online Beer,6,$54.00,0,$0.00,$0.00,$54.00,$4.67,ea,6,0
+Altamont Brewing - Waui Nugs,Regular,"",Beers,Online Beer,6,$54.00,0,$0.00,$0.00,$54.00,$4.66,ea,6,0
+Altamont Rich Mahogany,Regular,"",Beers,Online Beer,3,$27.00,0,$0.00,$0.00,$27.00,$2.34,ea,3,0
+Alvarado St  Howzit Punch,Regular,"",Beers,Online Beer,2,$24.00,0,$0.00,$0.00,$24.00,$2.07,ea,2,0
+Alvarado St White Label Mai Tai,Regular,"",Beers,Online Beer,2,$18.00,0,$0.00,$0.00,$18.00,$1.56,ea,2,0
+Alvarado Street + North Park Cruis'n U.S. Haze,Regular,"",Beers,Online Beer,5,$45.00,0,$0.00,$0.00,$45.00,$3.88,ea,5,0
+Alvarado Street - Double Howzit Punch,9oz Draft,"",Beers,Online Beer,6,$54.00,0,$0.00,$0.00,$54.00,$4.67,ea,6,0
+Alvarado Street - Mai Tai PA,4 Pack - Take Home Only,"",Beers,Online Beer,4,$104.00,0,$0.00,$0.00,$104.00,$8.96,ea,4,0
+Alvarado Street - Mai Tai PA,Can In House,"",Beers,Online Beer,4,$36.00,0,$0.00,$0.00,$36.00,$3.10,ea,4,0
+Alvarado Street - Pink PMB,Can In House,"",Beers,Online Beer,2,$18.00,0,$0.00,$0.00,$18.00,$1.55,ea,2,0
+Alvarado Street Beaky Blinders,Regular,"",Beers,Online Beer,2,$18.00,0,$0.00,$0.00,$18.00,$1.55,ea,2,0
+Alvarado Street Biggie's Behemoth Blueberry Brunch Bonanza,Regular,"",Beers,Online Beer,13,$130.00,0,$0.00,$0.00,$130.00,$11.18,ea,13,0
+Alvarado Street Cheeky's Succulent Skaze,Regular,"",Beers,Online Beer,12,$108.00,0,$0.00,$0.00,$108.00,$9.32,ea,12,0
+Alvarado Street Double Cone,Regular,"",Beers,Online Beer,6,$54.00,0,$0.00,$0.00,$54.00,$4.66,ea,6,0
+Alvarado Street Double Dry Hopped Mai Tai P.A.,Regular,"",Beers,Online Beer,9,$81.00,0,$0.00,$0.00,$81.00,$7.00,ea,9,0
+Alvarado Street Flight,Regular,"",Beers,Online Beer,49,$980.00,0,$0.00,-$20.00,$960.00,$82.80,ea,49,0
+Alvarado Street Gnarburator,Regular,"",Beers,Online Beer,6,$54.00,0,$0.00,$0.00,$54.00,$4.67,ea,6,0
+Alvarado Street Motor Oil No. 18,Regular,"",Beers,Online Beer,2,$20.00,0,$0.00,$0.00,$20.00,$1.72,ea,2,0
+Alvarado Street Orange Sherburps,Regular,"",Beers,Online Beer,3,$36.00,0,$0.00,$0.00,$36.00,$3.11,ea,3,0
+Alvarado Street Pomegranate,Regular,"",Beers,Online Beer,1,$10.00,0,$0.00,$0.00,$10.00,$0.86,ea,1,0
+Alvarado street Orangeberry Crisp,Regular,"",Beers,Online Beer,1,$9.00,0,$0.00,$0.00,$9.00,$0.77,ea,1,0
+Armistice - Befugged,16oz Draft,"",Beers,Online Beer,1,$9.00,0,$0.00,$0.00,$9.00,$0.78,ea,1,0
+Armistice - Guavallujah,Regular,"",Beers,Online Beer,4,$36.00,0,$0.00,$0.00,$36.00,$3.10,ea,4,0
+Armistice - Mild Thing,16oz draft,"",Beers,Online Beer,2,$18.00,0,$0.00,$0.00,$18.00,$1.56,ea,2,0
+Armistice - Rich City Pils,16oz Draft,"",Beers,Online Beer,5,$45.00,0,$0.00,$0.00,$45.00,$3.90,ea,5,0
+Armistice - Rich City Pils,Regular,"",Beers,Online Beer,21,$189.00,0,$0.00,$0.00,$189.00,$16.30,ea,21,0
+Armistice - Strata Salad,Regular,"",Beers,Online Beer,4,$36.00,0,$0.00,$0.00,$36.00,$3.11,ea,4,0
+Armistice Because Pale Ale,16oz draft,"",Beers,Online Beer,7,$63.00,0,$0.00,$0.00,$63.00,$5.44,ea,7,0
+Armistice Berry Coulis,Regular,"",Beers,Online Beer,13,$117.00,0,$0.00,$0.00,$117.00,$10.13,ea,13,0
+Armistice Disco Tech Bro,13oz Draft,"",Beers,Online Beer,1,$9.00,0,$0.00,$0.00,$9.00,$0.78,ea,1,0
+Armistice Mist Trail,Regular,"",Beers,Online Beer,4,$36.00,0,$0.00,$0.00,$36.00,$3.11,ea,4,0
+Armistice Rich City Pils,16oz draft,"",Beers,Online Beer,8,$72.00,0,$0.00,$0.00,$72.00,$0.00,ea,8,0
+Barebottle - Crisp Angel,16oz Draft,"",Beers,Online Beer,21,$189.00,0,$0.00,$0.00,$189.00,$16.31,ea,21,0
+Barebottle - Saint Coconut,16oz Draft,"",Beers,Online Beer,6,$54.00,0,$0.00,$0.00,$54.00,$4.67,ea,6,0
+Barebottle - Saint Nitro,16oz Draft,"",Beers,Online Beer,11,$99.00,0,$0.00,$0.00,$99.00,$8.57,ea,11,0
+Barebottle Hella Hetchy,16oz draft,"",Beers,Online Beer,2,$18.00,0,$0.00,-$1.35,$16.65,$0.00,ea,2,0
+Barebottle Hella Hetchy,Regular,"",Beers,Online Beer,3,$27.00,0,$0.00,$0.00,$27.00,$2.33,ea,3,0
+Barebottle Jelly Monster,Regular,"",Beers,Online Beer,5,$45.00,0,$0.00,$0.00,$45.00,$3.89,ea,5,0
+Barebottle Mango Flossi,Regular,"",Beers,Online Beer,1,$9.00,0,$0.00,$0.00,$9.00,$0.78,ea,1,0
+Barebottle Mighty Mosaic,16oz draft,"",Beers,Online Beer,12,$108.00,0,$0.00,$0.00,$108.00,$9.33,ea,12,0
+Barebottle SourBurst,Regular,"",Beers,Online Beer,4,$36.00,0,$0.00,$0.00,$36.00,$3.11,ea,4,0
+Barebottle lil haus on the prairie,Regular,"",Beers,Online Beer,6,$54.00,0,$0.00,$0.00,$54.00,$4.67,ea,6,0
+Barebottle royale flush,Regular,"",Beers,Online Beer,2,$18.00,0,$0.00,$0.00,$18.00,$1.55,ea,2,0
+Best Day Brewing Kolsch,Regular,"",Beers,Online Beer,29,$174.00,0,$0.00,$0.00,$174.00,$15.08,ea,29,0
+Best Day Brewing WC IPA,Regular,"",Beers,Online Beer,27,$162.00,0,$0.00,-$1.80,$160.20,$13.87,ea,27,0
+Blind Pig,Regular,"",Beers,Online Beer,8,$72.00,0,$0.00,$0.00,$72.00,$0.00,ea,8,0
+Bottle Logic Banzai Break,Regular,"",Beers,Online Beer,2,$22.00,0,$0.00,$0.00,$22.00,$1.90,ea,2,0
+Burley Oak JREAM,Regular,"",Beers,Online Beer,1,$12.00,0,$0.00,$0.00,$12.00,$1.03,ea,1,0
+Busty Lush She's Passionate,Regular,"",Beers,Online Beer,12,$84.00,0,$0.00,$0.00,$84.00,$7.21,ea,12,0
+Busty Lush She’s Divine,Regular,"",Beers,Online Beer,7,$49.00,0,$0.00,$0.00,$49.00,$4.20,ea,7,0
+Can - Alchemist - Heady Topper,4 Pack - Take Home Only,"",Beers,Online Beer,2,$52.00,0,$0.00,$0.00,$52.00,$4.48,ea,2,0
+Can - Alchemist - Heady Topper,Can - Take Home Only,"",Beers,Online Beer,6,$42.00,0,$0.00,$0.00,$42.00,$3.63,ea,6,0
+Can - Alchemist - Heady Topper,Can In House,"",Beers,Online Beer,7,$63.00,0,$0.00,$0.00,$63.00,$5.44,ea,7,0
+Can - Great Notion - Juice Invader,Can In House,"",Beers,Online Beer,1,$9.00,0,$0.00,$0.00,$9.00,$0.78,ea,1,0
+Cellarmaker - Dobis,16oz draft,"",Beers,Online Beer,17,$153.00,0,$0.00,$0.00,$153.00,$13.21,ea,17,0
+Cellarmaker - Mt. Nelson,16oz draft,"",Beers,Online Beer,23,$207.00,0,$0.00,$0.00,$207.00,$17.90,ea,23,0
+Cellarmaker - Wild Gooseberry Chase,16oz Draft,"",Beers,Online Beer,12,$108.00,0,$0.00,$0.00,$108.00,$9.30,ea,12,0
+Cellarmaker Checks The Boxes,16oz draft,"",Beers,Online Beer,18,$162.00,0,$0.00,$0.00,$162.00,$14.01,ea,18,0
+Cellarmaker Christopher Riwaken,Regular,"",Beers,Online Beer,2,$18.00,0,$0.00,$0.00,$18.00,$1.56,ea,2,0
+Cellarmaker Coffee & Cigs,13oz Draft,"",Beers,Online Beer,1,$9.00,0,$0.00,$0.00,$9.00,$0.78,ea,1,0
+Cellarmaker Coffee & Cigs,Regular,"",Beers,Online Beer,4,$40.00,0,$0.00,$0.00,$40.00,$3.44,ea,4,0
+Cellarmaker Mild Smiles Nitro,16oz Draft,"",Beers,Online Beer,17,$153.00,0,$0.00,$0.00,$153.00,$13.20,ea,17,0
+Cellarmaker Moonage Daydream,Regular,"",Beers,Online Beer,23,$207.00,0,$0.00,$0.00,$207.00,$17.88,ea,23,0
+Cellarmaker Mo’ Galaxy,Regular,"",Beers,Online Beer,4,$36.00,0,$0.00,$0.00,$36.00,$3.12,ea,4,0
+Cellarmaker Mt Nelson,Regular,"",Beers,Online Beer,3,$27.00,0,$0.00,$0.00,$27.00,$2.34,ea,3,0
+Cellarmaker The Glow,Regular,"",Beers,Online Beer,5,$45.00,0,$0.00,$0.00,$45.00,$3.90,ea,5,0
+Cellarmaker Wicked Juicy,16oz draft,"",Beers,Online Beer,3,$27.00,0,$0.00,$0.00,$27.00,$2.34,ea,3,0
+Cellarmaker Wicked Juicy,Regular,"",Beers,Online Beer,6,$54.00,0,$0.00,$0.00,$54.00,$4.67,ea,6,0
+Cellarmaker baby blammo,16oz Draft,"",Beers,Online Beer,2,$18.00,0,$0.00,$0.00,$18.00,$1.56,ea,2,0
+Cellarmaker brewers willow,Regular,"",Beers,Online Beer,1,$12.00,0,$0.00,$0.00,$12.00,$1.04,ea,1,0
+Cellarmaker huckleberry oak,Regular,"",Beers,Online Beer,1,$12.00,0,$0.00,$0.00,$12.00,$1.04,ea,1,0
+Cellarmaker map of the moon,Regular,"",Beers,Online Beer,2,$24.00,0,$0.00,$0.00,$24.00,$2.08,ea,2,0
+Cellarmaker- Turok Juice,Regular,"",Beers,Online Beer,12,$108.00,0,$0.00,$0.00,$108.00,$9.33,ea,12,0
+Cellarmaker- Zero Complaints,Regular,"",Beers,Online Beer,13,$117.00,-1,-$9.00,$0.00,$108.00,$9.32,ea,13,-1
+Cerebral  Inhabited Form,Regular,"",Beers,Online Beer,8,$72.00,0,$0.00,$0.00,$72.00,$6.24,ea,8,0
+Cerebral DDH Hollow Fang,Regular,"",Beers,Online Beer,7,$70.00,0,$0.00,$0.00,$70.00,$6.02,ea,7,0
+Cerebral Forever Awake - Nola Style,Regular,"",Beers,Online Beer,7,$70.00,0,$0.00,$0.00,$70.00,$6.02,ea,7,0
+Cerebral Momentum Shift,Regular,"",Beers,Online Beer,17,$170.00,0,$0.00,$0.00,$170.00,$14.62,ea,17,0
+Country Doctor,16oz draft,"",Beers,Online Beer,6,$54.00,0,$0.00,$0.00,$54.00,$0.00,ea,6,0
+Dark Beer Flight,Regular,"",Beers,Online Beer,139,"$2,984.00",0,$0.00,$0.00,"$2,984.00",$257.47,ea,139,0
+Fair Isle Myrtle,"9oz Draft, 7oz Draft","",Beers,Online Beer,4,$40.00,0,$0.00,$0.00,$40.00,$3.44,ea,4,0
+Fair Isle Odelette,Regular,"",Beers,Online Beer,4,$40.00,0,$0.00,$0.00,$40.00,$3.45,ea,4,0
+Fieldwork - Critical Excess,16oz Draft,"",Beers,Online Beer,11,$99.00,0,$0.00,$0.00,$99.00,$8.55,ea,11,0
+Fieldwork Castleford,16oz Draft,"",Beers,Online Beer,3,$27.00,0,$0.00,$0.00,$27.00,$2.34,ea,3,0
+Fieldwork Critical Excess,Regular,"",Beers,Online Beer,1,$9.00,0,$0.00,$0.00,$9.00,$0.78,ea,1,0
+Fieldwork Hook & Loop,Regular,"",Beers,Online Beer,1,$9.00,0,$0.00,$0.00,$9.00,$0.78,ea,1,0
+Fieldwork Ice Cream Castles,16oz Draft,"",Beers,Online Beer,13,$117.00,0,$0.00,$0.00,$117.00,$10.10,ea,13,0
+Fieldwork New Dreams,Regular,"",Beers,Online Beer,2,$18.00,0,$0.00,$0.00,$18.00,$1.56,ea,2,0
+Fieldwork PULP!,16oz Draft,"",Beers,Online Beer,21,$189.00,0,$0.00,$0.00,$189.00,$16.31,ea,21,0
+Fieldwork Pulp,Regular,"",Beers,Online Beer,7,$63.00,0,$0.00,$0.00,$63.00,$5.45,ea,7,0
+Fieldwork Pulp Free,Regular,"",Beers,Online Beer,5,$45.00,0,$0.00,$0.00,$45.00,$3.89,ea,5,0
+Fieldwork Salted Watermelon,Regular,"",Beers,Online Beer,8,$72.00,0,$0.00,$0.00,$72.00,$6.24,ea,8,0
+Fieldwork Salted Watermelon Gose,9oz draft,"",Beers,Online Beer,9,$81.00,0,$0.00,$0.00,$81.00,$7.00,ea,9,0
+Fieldwork St Thomas OG,16oz draft,"",Beers,Online Beer,3,$27.00,0,$0.00,$0.00,$27.00,$2.34,ea,3,0
+Fieldwork Video Armageddon,16oz Draft,"",Beers,Online Beer,2,$18.00,0,$0.00,$0.00,$18.00,$1.56,ea,2,0
+Fieldwork Walrus is Paul,Regular,"",Beers,Online Beer,4,$36.00,0,$0.00,$0.00,$36.00,$0.00,ea,4,0
+Fieldwork mixed berry parfait,Regular,"",Beers,Online Beer,3,$27.00,0,$0.00,$0.00,$27.00,$2.34,ea,3,0
+Finback Between The Dead 2022,Regular,"",Beers,Online Beer,14,$168.00,0,$0.00,$0.00,$168.00,$14.52,ea,14,0
+Finback I See You,Regular,"",Beers,Online Beer,3,$33.00,0,$0.00,$0.00,$33.00,$2.85,ea,3,0
+Finback Slave To The Machine,Regular,"",Beers,Online Beer,3,$30.00,0,$0.00,$0.00,$30.00,$2.58,ea,3,0
+Finback slave to the machine,Regular,"",Beers,Online Beer,1,$10.00,0,$0.00,$0.00,$10.00,$0.86,ea,1,0
+Fonta Flora Rhythm Rug,Regular,"",Beers,Online Beer,7,$70.00,0,$0.00,$0.00,$70.00,$6.02,ea,7,0
+Framboise,Regular,"",Beers,Online Beer,2,$24.00,0,$0.00,$0.00,$24.00,$2.07,ea,2,0
+Ghost Town - Banshee’s,16oz draft,"",Beers,Online Beer,11,$99.00,-1,-$9.00,$0.00,$90.00,$7.79,ea,11,-1
+Ghost Town - Geisterfaust,16oz draft,"",Beers,Online Beer,4,$36.00,0,$0.00,$0.00,$36.00,$3.11,ea,4,0
+Ghost Town - Lil Nigel,16oz draft,"",Beers,Online Beer,4,$36.00,0,$0.00,$0.00,$36.00,$3.11,ea,4,0
+Ghost Town - Pale Horse,Crowler - Take Home Only,"",Beers,Online Beer,5,$45.00,0,$0.00,$0.00,$45.00,$3.88,ea,5,0
+Ghost Town - Stung,9oz draft,"",Beers,Online Beer,8,$96.00,0,$0.00,$0.00,$96.00,$8.28,ea,8,0
+Ghost Town Death Rattle,7oz Draft,"",Beers,Online Beer,5,$45.00,0,$0.00,$0.00,$45.00,$0.00,ea,5,0
+Ghost Town Deiform,Regular,"",Beers,Online Beer,7,$63.00,0,$0.00,$0.00,$63.00,$0.00,ea,7,0
+Ghost Town Geisterfaust,Regular,"",Beers,Online Beer,6,$54.00,0,$0.00,$0.00,$54.00,$4.66,ea,6,0
+Ghost Town Lousy With Peacharine,16oz draft,"",Beers,Online Beer,2,$18.00,0,$0.00,$0.00,$18.00,$0.00,ea,2,0
+Ghost Town Throes,16oz Draft,"",Beers,Online Beer,1,$9.00,0,$0.00,$0.00,$9.00,$0.78,ea,1,0
+Ghost Town chants from below ,13oz Draft,"",Beers,Online Beer,1,$9.00,0,$0.00,$0.00,$9.00,$0.78,ea,1,0
+Ghost town Nose Goblin,Regular,"",Beers,Online Beer,6,$54.00,0,$0.00,$0.00,$54.00,$4.67,ea,6,0
+Ghost town Obscure,Regular,"",Beers,Online Beer,5,$45.00,0,$0.00,$0.00,$45.00,$3.89,ea,5,0
+Ghost town locust,Regular,"",Beers,Online Beer,2,$18.00,0,$0.00,$0.00,$18.00,$1.56,ea,2,0
+Ghost town skullvanized,Regular,"",Beers,Online Beer,6,$54.00,0,$0.00,$0.00,$54.00,$4.66,ea,6,0
+Great Notion A Beer Has No Name,16oz Draft,"",Beers,Online Beer,3,$27.00,0,$0.00,$0.00,$27.00,$2.32,ea,3,0
+Great Notion Blueberry Cobbler Muffin,Regular,"",Beers,Online Beer,8,$72.00,0,$0.00,$0.00,$72.00,$6.24,ea,8,0
+Great Notion Blueberry Muffin,Regular,"",Beers,Online Beer,1,$10.00,0,$0.00,$0.00,$10.00,$0.86,ea,1,0
+Great Notion Double Blueberry marshmallow shake,9oz Draft,"",Beers,Online Beer,10,$100.00,0,$0.00,$0.00,$100.00,$2.58,ea,10,0
+Great Notion Flight,Regular,"",Beers,Online Beer,30,$600.00,0,$0.00,-$20.00,$580.00,$50.06,ea,30,0
+Great Notion JB DIPA,Regular,"",Beers,Online Beer,3,$27.00,0,$0.00,$0.00,$27.00,$2.33,ea,3,0
+Great Notion Over Ripe,Regular,"",Beers,Online Beer,22,$198.00,0,$0.00,$0.00,$198.00,$17.08,ea,22,0
+Great Notion PB&Jammy Pants (Raspberry),Regular,"",Beers,Online Beer,11,$99.00,0,$0.00,$0.00,$99.00,$8.56,ea,11,0
+Great Notion Ripe,16oz draft,"",Beers,Online Beer,3,$27.00,0,$0.00,$0.00,$27.00,$2.33,ea,3,0
+Great Notion Super Ripe,Regular,"",Beers,Online Beer,7,$63.00,0,$0.00,$0.00,$63.00,$5.45,ea,7,0
+Great notion juice jr,Regular,"",Beers,Online Beer,1,$9.00,0,$0.00,$0.00,$9.00,$0.78,ea,1,0
+Guinness Zero,Regular,"",Beers,Online Beer,3,$24.00,0,$0.00,$0.00,$24.00,$2.07,ea,3,0
+Henhouse - Stoked on Citra,16oz draft,"",Beers,Online Beer,9,$81.00,0,$0.00,$0.00,$81.00,$6.99,ea,9,0
+Hills & Valley,Regular,"",Beers,Online Beer,2,$18.00,0,$0.00,$0.00,$18.00,$1.55,ea,2,0
+Humble Sea Chasing Twilight,Regular,"",Beers,Online Beer,20,$240.00,0,$0.00,$0.00,$240.00,$20.74,ea,20,0
+Humble Sea Crystal Ocean,Regular,"",Beers,Online Beer,1,$9.00,0,$0.00,$0.00,$9.00,$0.78,ea,1,0
+Humble Sea Double barrel-aged Doppel Doppel,Regular,"",Beers,Online Beer,8,$72.00,0,$0.00,$0.00,$72.00,$6.24,ea,8,0
+Humble Sea Driftwood Dreams,16oz draft,"",Beers,Online Beer,2,$18.00,0,$0.00,$0.00,$18.00,$1.56,ea,2,0
+Humble Sea Flight,Regular,"",Beers,Online Beer,21,$420.00,0,$0.00,$0.00,$420.00,$36.23,ea,21,0
+Humble Sea Hop Innovation Station,Regular,"",Beers,Online Beer,17,$153.00,0,$0.00,$0.00,$153.00,$13.20,ea,17,0
+Humble Sea Noodle Arms,Regular,"",Beers,Online Beer,2,$18.00,0,$0.00,$0.00,$18.00,$1.56,ea,2,0
+Humble Sea Penelope Pils,Regular,"",Beers,Online Beer,3,$27.00,0,$0.00,$0.00,$27.00,$2.34,ea,3,0
+Humble Sea Super Socks & Sandals,Regular,"",Beers,Online Beer,5,$45.00,0,$0.00,$0.00,$45.00,$3.90,ea,5,0
+Humble Sea Surf SUP,Regular,"",Beers,Online Beer,1,$9.00,0,$0.00,$0.00,$9.00,$0.78,ea,1,0
+Humble sea boardwalk dreamin,16oz draft,"",Beers,Online Beer,2,$18.00,0,$0.00,$0.00,$18.00,$1.55,ea,2,0
+IPA Flight,Regular,"",Beers,Online Beer,74,"$1,240.00",0,$0.00,-$16.00,"$1,224.00",$105.56,ea,74,0
+Intinction Intinction Merlot,Regular,"",Beers,Online Beer,5,$50.00,0,$0.00,$0.00,$50.00,$4.30,ea,5,0
+Lost Coast Root Beer,Regular,"",Beers,Online Beer,261,"$1,305.00",0,$0.00,-$7.00,"$1,298.00",$111.74,ea,261,0
+Moonlight - Reality Czeck,16oz Draft,"",Beers,Online Beer,13,$117.00,0,$0.00,$0.00,$117.00,$10.12,ea,13,0
+Moonlight Death & Taxes,16oz Draft,"",Beers,Online Beer,31,$279.00,0,$0.00,$0.00,$279.00,$24.06,ea,31,0
+Moonlight Sulla Luna,Regular,"",Beers,Online Beer,1,$9.00,0,$0.00,$0.00,$9.00,$0.78,ea,1,0
+Moonlight reality czeck,16oz draft,"",Beers,Online Beer,2,$18.00,0,$0.00,$0.00,$18.00,$0.00,ea,2,0
+Moonraker - Dojo,Crowler - Take Home Only,"",Beers,Online Beer,18,$162.00,0,$0.00,$0.00,$162.00,$13.98,ea,18,0
+Moonraker Bone Frog,Regular,"",Beers,Online Beer,12,$108.00,0,$0.00,$0.00,$108.00,$9.34,ea,12,0
+Moonraker Citra Double,Regular,"",Beers,Online Beer,7,$63.00,0,$0.00,$0.00,$63.00,$5.44,ea,7,0
+Moonraker Flight,Regular,"",Beers,Online Beer,26,$520.00,0,$0.00,$0.00,$520.00,$44.85,ea,26,0
+Moonraker Outrigger,Regular,"",Beers,Online Beer,5,$45.00,0,$0.00,$0.00,$45.00,$3.87,ea,5,0
+Moonraker Papillon,Regular,"",Beers,Online Beer,11,$99.00,0,$0.00,$0.00,$99.00,$8.57,ea,11,0
+Moonraker Sea Thrift,Regular,"",Beers,Online Beer,15,$135.00,0,$0.00,$0.00,$135.00,$11.64,ea,15,0
+Moonraker Strange Magic,Regular,"",Beers,Online Beer,16,$144.00,0,$0.00,$0.00,$144.00,$12.45,ea,16,0
+Moonraker What Would Cletus Do?,Regular,"",Beers,Online Beer,14,$126.00,0,$0.00,$0.00,$126.00,$10.85,ea,14,0
+North Park Flight,Regular,"",Beers,Online Beer,25,$500.00,0,$0.00,$0.00,$500.00,$43.16,ea,25,0
+North Park Hitcha With Citra,Regular,"",Beers,Online Beer,13,$117.00,0,$0.00,$0.00,$117.00,$10.09,ea,13,0
+North Park TDH Art Is Hard: White Label,Regular,"",Beers,Online Beer,12,$108.00,0,$0.00,$0.00,$108.00,$9.32,ea,12,0
+North Park The Final Death,Regular,"",Beers,Online Beer,6,$54.00,0,$0.00,$0.00,$54.00,$4.66,ea,6,0
+OP Currant Capitulation,Regular,"",Beers,Online Beer,4,$36.00,0,$0.00,$0.00,$36.00,$3.10,ea,4,0
+Odd Breed Scratch the Itch,Regular,"",Beers,Online Beer,1,$12.00,0,$0.00,$0.00,$12.00,$1.04,ea,1,0
+Olfactory - Beloved,Regular,"",Beers,Online Beer,7,$63.00,0,$0.00,$0.00,$63.00,$5.44,ea,7,0
+Olfactory Brewing - Pollinate Your Peers,Regular,"",Beers,Online Beer,9,$81.00,0,$0.00,$0.00,$81.00,$7.00,ea,9,0
+Olfactory Brewing - Wilson!,16oz Draft,"",Beers,Online Beer,18,$162.00,-1,-$9.00,$0.00,$153.00,$13.23,ea,18,-1
+Olfactory Brewing Mono No Aware,Crowler - Take Home Only,"",Beers,Online Beer,1,$9.00,0,$0.00,$0.00,$9.00,$0.78,ea,1,0
+Olfactory Buckaroo,Regular,"",Beers,Online Beer,3,$27.00,0,$0.00,$0.00,$27.00,$2.34,ea,3,0
+Original Pattern - Color Me Murphy,16oz Draft,"",Beers,Online Beer,3,$27.00,0,$0.00,$0.00,$27.00,$2.34,ea,3,0
+Original Pattern - Peekaboo,9oz Draft,"",Beers,Online Beer,6,$54.00,0,$0.00,$0.00,$54.00,$4.68,ea,6,0
+Original Pattern Country Doctor,Regular,"",Beers,Online Beer,6,$54.00,0,$0.00,$0.00,$54.00,$4.67,ea,6,0
+Original Pattern Diablo,Regular,"",Beers,Online Beer,3,$27.00,0,$0.00,$0.00,$27.00,$2.34,ea,3,0
+Original Pattern Forgotten Opportunity,16oz draft,"",Beers,Online Beer,1,$9.00,0,$0.00,$0.00,$9.00,$0.78,ea,1,0
+Original Pattern Renegade Lemonade,Regular,"",Beers,Online Beer,5,$45.00,0,$0.00,$0.00,$45.00,$3.89,ea,5,0
+Original Pattern The Morrigan,Regular,"",Beers,Online Beer,1,$9.00,0,$0.00,$0.00,$9.00,$0.78,ea,1,0
+Original Pattern There it is!,4 Pack - Take Home Only,"",Beers,Online Beer,2,$44.00,0,$0.00,$0.00,$44.00,$3.80,ea,2,0
+Original Pattern There it is!,Can In House,"",Beers,Online Beer,2,$18.00,0,$0.00,$0.00,$18.00,$1.56,ea,2,0
+Original pattern down the rabbit hole,7oz Draft,"",Beers,Online Beer,1,$9.00,0,$0.00,$0.00,$9.00,$0.00,ea,1,0
+Original pattern down the rabbit hole ,7oz Draft,"",Beers,Online Beer,2,$18.00,0,$0.00,$0.00,$18.00,$0.00,ea,2,0
+Original pattern kitten commotion,Regular,"",Beers,Online Beer,5,$45.00,0,$0.00,$0.00,$45.00,$3.90,ea,5,0
+Other Half Cheddar,Regular,"",Beers,Online Beer,10,$110.00,0,$0.00,$0.00,$110.00,$9.50,ea,10,0
+Other Half Forever Ever,Regular,"",Beers,Online Beer,10,$100.00,0,$0.00,$0.00,$100.00,$8.60,ea,10,0
+Other Half Green City,Regular,"",Beers,Online Beer,7,$70.00,0,$0.00,$0.00,$70.00,$6.02,ea,7,0
+Other Half Poetry Snap,Regular,"",Beers,Online Beer,10,$100.00,0,$0.00,$0.00,$100.00,$8.61,ea,10,0
+Perennial Joseph,Regular,"",Beers,Online Beer,3,$36.00,0,$0.00,$0.00,$36.00,$3.11,ea,3,0
+Perennial Sump,Regular,"",Beers,Online Beer,2,$24.00,0,$0.00,$0.00,$24.00,$2.07,ea,2,0
+Perrier Sparking Water,Regular,"",Beers,Online Beer,109,$327.00,0,$0.00,-$0.90,$326.10,$27.74,ea,109,0
+Pure Project Formless Reflections,Regular,"",Beers,Online Beer,3,$27.00,0,$0.00,$0.00,$27.00,$2.33,ea,3,0
+Pure Project Rain,Regular,"",Beers,Online Beer,3,$27.00,0,$0.00,$0.00,$27.00,$2.33,ea,3,0
+Rare Barrel Guava Happens,Regular,"",Beers,Online Beer,13,$130.00,0,$0.00,$0.00,$130.00,$11.19,ea,13,0
+Rare barrel huckleberry oak,Regular,"",Beers,Online Beer,2,$24.00,0,$0.00,$0.00,$24.00,$2.07,ea,2,0
+Reality Czech,16oz draft,"",Beers,Online Beer,10,$90.00,0,$0.00,-$4.05,$85.95,$0.00,ea,10,0
+Russian River - Blind Pig,16oz draft,"",Beers,Online Beer,16,$144.00,0,$0.00,$0.00,$144.00,$12.44,ea,16,0
+Russian River - Pliny the Elder,13oz Draft,"",Beers,Online Beer,107,$963.00,0,$0.00,-$9.00,$954.00,$82.31,ea,107,0
+Russian River - RND #17 - IPA,16oz Draft,"",Beers,Online Beer,19,$171.00,-1,-$9.00,$0.00,$162.00,$14.02,ea,19,-1
+Russian River - STS PIls,Regular,"",Beers,Online Beer,2,$18.00,0,$0.00,$0.00,$18.00,$1.55,ea,2,0
+Russian River Beatification,Regular,"",Beers,Online Beer,18,$180.00,0,$0.00,$0.00,$180.00,$15.50,ea,18,0
+Russian River Blind Pig,Regular,"",Beers,Online Beer,1,$9.00,0,$0.00,$0.00,$9.00,$0.78,ea,1,0
+Russian River Damnation,13oz Draft,"",Beers,Online Beer,23,$207.00,0,$0.00,$0.00,$207.00,$17.89,ea,23,0
+Russian River Damnation,Regular,"",Beers,Online Beer,12,$108.00,0,$0.00,$0.00,$108.00,$9.34,ea,12,0
+Russian River Flight,Regular,"",Beers,Online Beer,23,$552.00,0,$0.00,$0.00,$552.00,$47.61,ea,23,0
+Russian River Hill 56,Regular,"",Beers,Online Beer,2,$18.00,0,$0.00,$0.00,$18.00,$1.56,ea,2,0
+Russian River Intinction,Regular,"",Beers,Online Beer,3,$36.00,0,$0.00,$0.00,$36.00,$3.12,ea,3,0
+Russian River Kernza,Regular,"",Beers,Online Beer,4,$36.00,0,$0.00,-$1.35,$34.65,$2.99,ea,4,0
+Russian River Mosaic Stack,Regular,"",Beers,Online Beer,16,$144.00,0,$0.00,$0.00,$144.00,$12.43,ea,16,0
+Russian River Pale Ale,Regular,"",Beers,Online Beer,5,$45.00,0,$0.00,$0.00,$45.00,$3.90,ea,5,0
+Russian River Pliny The Elder,Regular,"",Beers,Online Beer,27,$243.00,0,$0.00,-$9.00,$234.00,$20.20,ea,27,0
+Russian River STS Pils,Regular,"",Beers,Online Beer,1,$9.00,0,$0.00,$0.00,$9.00,$0.78,ea,1,0
+Russian River Salvation,Regular,"",Beers,Online Beer,11,$110.00,0,$0.00,$0.00,$110.00,$9.46,ea,11,0
+Russian River Velvet Glow,16oz draft,"",Beers,Online Beer,26,$234.00,0,$0.00,$0.00,$234.00,$10.13,ea,26,0
+Russian River Velvet Glow,Regular,"",Beers,Online Beer,16,$144.00,0,$0.00,$0.00,$144.00,$12.46,ea,16,0
+Russian River supplication,Regular,"",Beers,Online Beer,2,$24.00,0,$0.00,$0.00,$24.00,$2.06,ea,2,0
+Sante Adairius - Adopt Don’t Shop,13oz draft,"",Beers,Online Beer,4,$36.00,0,$0.00,$0.00,$36.00,$3.11,ea,4,0
+Sante Adairius - Adopt Don’t Shop,32oz crowler to go,"",Beers,Online Beer,1,$16.00,0,$0.00,$0.00,$16.00,$1.38,ea,1,0
+Sante Adairius - Bed Level,Regular,"",Beers,Online Beer,17,$153.00,0,$0.00,$0.00,$153.00,$13.24,ea,17,0
+Sante Adairius - Bentley,"9oz Draft, 7oz Draft","",Beers,Online Beer,5,$50.00,0,$0.00,$0.00,$50.00,$4.30,ea,5,0
+Sante Adairius - Happily So,Crowler - Take Home Only,"",Beers,Online Beer,2,$18.00,0,$0.00,$0.00,$18.00,$1.56,ea,2,0
+Sante Adairius Break From Dormancy,9oz draft,"",Beers,Online Beer,16,$192.00,0,$0.00,$0.00,$192.00,$16.58,ea,16,0
+Sante Adairius Flight,Regular,"",Beers,Online Beer,20,$480.00,0,$0.00,$0.00,$480.00,$41.40,ea,20,0
+Sante Adairius Fruitful Forecast,9oz draft,"",Beers,Online Beer,7,$84.00,0,$0.00,-$3.60,$80.40,$6.93,ea,7,0
+Sante Adairius Fruitful Forecast - Mixed Berry,Regular,"",Beers,Online Beer,2,$24.00,0,$0.00,$0.00,$24.00,$2.06,ea,2,0
+Sante Adairius Gertrude,Regular,"",Beers,Online Beer,11,$99.00,0,$0.00,$0.00,$99.00,$8.57,ea,11,0
+Sante Adairius If Memory Serves,Regular,"",Beers,Online Beer,7,$84.00,0,$0.00,$0.00,$84.00,$7.26,ea,7,0
+Sante Adairius New Ghosts,Regular,"",Beers,Online Beer,7,$63.00,0,$0.00,$0.00,$63.00,$5.45,ea,7,0
+Sante Adairius Of This World,Regular,"",Beers,Online Beer,7,$63.00,0,$0.00,$0.00,$63.00,$5.45,ea,7,0
+Sante Adairius Reasonable Reason,Regular,"",Beers,Online Beer,4,$36.00,0,$0.00,$0.00,$36.00,$3.12,ea,4,0
+Sante Adairius Tiny Ladders,Regular,"",Beers,Online Beer,6,$54.00,0,$0.00,$0.00,$54.00,$4.67,ea,6,0
+Sante Animal Dance Party,Regular,"",Beers,Online Beer,21,$189.00,0,$0.00,$0.00,$189.00,$16.33,ea,21,0
+Side Project - Le Feu Vert,9oz Draft,"",Beers,Online Beer,1,$12.00,0,$0.00,$0.00,$12.00,$1.04,ea,1,0
+Sour Beer Flight,Regular,"",Beers,Online Beer,241,"$5,746.00",0,$0.00,-$3.60,"$5,742.40",$493.26,ea,241,0
+Tag & Jug Brut Cider,13oz Draft,"",Beers,Online Beer,98,$882.00,0,$0.00,$0.00,$882.00,$76.26,ea,98,0
+Temescal - Through The Fog,16oz Draft,"",Beers,Online Beer,4,$36.00,0,$0.00,$0.00,$36.00,$3.11,ea,4,0
+Temescal Fruity,Regular,"",Beers,Online Beer,4,$36.00,0,$0.00,$0.00,$36.00,$3.11,ea,4,0
+The Bruery Bakery Oatmeal Raisin Cookie,7oz Draft,"",Beers,Online Beer,2,$20.00,0,$0.00,$0.00,$20.00,$1.72,ea,2,0
+The Rare Barrel - Foudre 2022,Regular,"",Beers,Online Beer,4,$40.00,0,$0.00,$0.00,$40.00,$3.44,ea,4,0
+The Rare Barrel - Rosy Cheeks,Regular,"",Beers,Online Beer,3,$36.00,0,$0.00,$0.00,$36.00,$3.11,ea,3,0
+The Rare Barrel - Stone Age Love,Regular,"",Beers,Online Beer,2,$24.00,0,$0.00,$0.00,$24.00,$2.08,ea,2,0
+The Rare Barrel Guava Happens,Regular,"",Beers,Online Beer,3,$36.00,0,$0.00,$0.00,$36.00,$3.10,ea,3,0
+The Rare Barrel Poptropica,9oz Draft,"",Beers,Online Beer,6,$72.00,0,$0.00,$0.00,$72.00,$6.20,ea,6,0
+Timescale Through The Fog,16oz Draft,"",Beers,Online Beer,1,$9.00,0,$0.00,$0.00,$9.00,$0.77,ea,1,0
+Tiny Dankster,Regular,"",Beers,Online Beer,7,$63.00,0,$0.00,$0.00,$63.00,$5.45,ea,7,0
+Trillium Congress Street,Regular,"",Beers,Online Beer,25,$300.00,0,$0.00,$0.00,$300.00,$25.88,ea,25,0
+Trillium Pot & Kettle,Regular,"",Beers,Online Beer,8,$88.00,0,$0.00,$0.00,$88.00,$7.60,ea,8,0
+Trillium Skimpy Sparrow,Regular,"",Beers,Online Beer,16,$176.00,0,$0.00,$0.00,$176.00,$15.19,ea,16,0
+Trillium Vicinity,Regular,"",Beers,Online Beer,15,$180.00,0,$0.00,$0.00,$180.00,$15.55,ea,15,0
+Untitled Art Apricot Pineapple Sour,Regular,"",Beers,Online Beer,7,$84.00,0,$0.00,$0.00,$84.00,$7.25,ea,7,0
+Untitled Art Blueberry Rhubarb,Regular,"",Beers,Online Beer,2,$24.00,0,$0.00,$0.00,$24.00,$2.08,ea,2,0
+Untitled Art Mexican Style Pot de Creme,16oz Draft,"",Beers,Online Beer,3,$36.00,0,$0.00,$0.00,$36.00,$3.10,ea,3,0
+Untitled Art Midnight Toffee Stout,16oz Draft,"",Beers,Online Beer,1,$12.00,0,$0.00,$0.00,$12.00,$1.03,ea,1,0
+Wondrous Gromky,Regular,"",Beers,Online Beer,1,$9.00,0,$0.00,$0.00,$9.00,$0.78,ea,1,0
+Zero Complaints,16oz draft,"",Beers,Online Beer,4,$36.00,0,$0.00,$0.00,$36.00,$3.12,ea,4,0
+iPa  Flight,Regular,"",Beers,Online Beer,242,"$4,400.00",0,$0.00,$0.00,"$4,400.00",$379.31,ea,242,0
+Al Pastor Pork gyoza,Regular,"",Total foods,Food,238,"$2,856.00",-1,-$12.00,-$25.80,"$2,818.20",$241.57,ea,238,-1
+Arepa De Choclo,Regular,"",Total foods,Food,20,$140.00,0,$0.00,-$1.75,$138.25,$12.03,ea,20,0
+Arepa De Yuca,Regular,"",Total foods,Food,13,$156.00,0,$0.00,$0.00,$156.00,$13.50,ea,13,0
+Arugula Salad,Regular,"",Total foods,Food,109,"$1,808.00",0,$0.00,-$25.10,"$1,782.90",$147.58,ea,109,0
+Beyond Burger,Regular,"",Total foods,Food,398,"$7,893.00",-2,-$38.00,-$290.35,"$7,564.65",$647.94,ea,398,-2
+Blistered Shishito Pepper,Regular,"",Total foods,Food,138,"$1,656.00",0,$0.00,-$29.40,"$1,626.60",$140.44,ea,138,0
+Bread and butter,Regular,"",Total foods,Food,102,$510.00,0,$0.00,-$8.75,$501.25,$43.13,ea,102,0
+Butterbean Soup,Regular,"",Total foods,Food,248,"$2,952.00",-2,-$21.00,-$87.75,"$2,843.25",$245.53,ea,248,-2
+Camarones A La Criolla,Regular,"",Total foods,Food,13,$242.00,0,$0.00,$0.00,$242.00,$20.90,ea,13,0
+Caprese Salad,Regular,"",Total foods,Food,195,"$3,380.00",0,$0.00,-$71.38,"$3,308.62",$284.73,ea,195,0
+Carrot & Papaya Salad,Regular,"",Total foods,Food,16,$240.00,-1,-$22.00,-$76.30,$141.70,$12.24,ea,16,-1
+Ceviche De Chicharron,Regular,"",Total foods,Food,18,$255.00,0,$0.00,-$3.75,$251.25,$21.96,ea,18,0
+Charred Yam Tacos,Regular,"",Total foods,Food,110,"$1,870.00",0,$0.00,-$66.30,"$1,803.70",$155.76,ea,110,0
+Cheddar Popcorn,Regular,"",Total foods,Food,33,$264.00,0,$0.00,$0.00,$264.00,$22.77,ea,33,0
+Chicken Liver Mousse,Regular,"",Total foods,Food,72,"$1,080.00",0,$0.00,-$39.00,"$1,041.00",$89.64,ea,72,0
+Chicken liver mousse,Regular,"",Total foods,Food,44,$528.00,0,$0.00,$0.00,$528.00,$45.57,ea,44,0
+Churros,Regular,"",Total foods,Food,180,"$1,718.00",0,$0.00,-$14.97,"$1,703.03",$147.01,ea,180,0
+Corn Ribs,Regular,"",Total foods,Food,154,"$1,694.00",0,$0.00,-$34.24,"$1,659.76",$143.59,ea,154,0
+Cream of Corn Soup,Regular,"",Total foods,Food,13,$156.00,0,$0.00,-$1.80,$154.20,$13.27,ea,13,0
+Creme Brûlée,Regular,"",Total foods,Food,90,$846.00,0,$0.00,-$21.35,$824.65,$71.10,ea,90,0
+Crispy Brussel Sprouts,Regular,"",Total foods,Food,999,"$11,988.00",-2,-$24.00,-$209.55,"$11,754.45","$1,014.37",ea,999,-2
+Crispy Sweet Potatoes,Regular,"",Total foods,Food,52,$468.00,0,$0.00,-$19.35,$448.65,$38.84,ea,52,0
+Empanada De Carne,Regular,"",Total foods,Food,21,$180.00,0,$0.00,$0.00,$180.00,$15.56,ea,21,0
+Endive Salad,Regular,"",Total foods,Food,24,$336.00,0,$0.00,-$20.30,$315.70,$27.27,ea,24,0
+Fish & Chips,Regular,"",Total foods,Food,1405,"$29,505.00",-2,-$42.00,-$362.25,"$29,100.75","$2,508.46",ea,1405,-2
+Fish Tacos,Regular,"",Total foods,Food,1504,"$22,031.00",-1,-$14.00,-$521.24,"$21,495.76","$1,848.73",ea,1504,-1
+French Onion Dip.,Regular,"",Total foods,Food,443,"$3,987.00",-2,-$18.00,-$103.95,"$3,865.05",$334.57,ea,443,-2
+Fries,Regular,"",Total foods,Food,1900,"$17,100.00",-1,-$9.00,-$246.94,"$16,844.06","$1,459.98",ea,1900,-1
+Grilled Cheese,Regular,"",Total foods,Food,8,$96.00,0,$0.00,$0.00,$96.00,$8.29,ea,8,0
+Grilled Spanish Octopus,Regular,"",Total foods,Food,276,"$7,338.00",0,$0.00,-$119.90,"$7,218.10",$622.64,ea,276,0
+Happy Hour Brussel Sprouts,Regular,"",Total foods,Food,37,$296.00,0,$0.00,-$1.20,$294.80,$25.43,ea,37,0
+Happy Hour Fish Tacos,Regular,"",Total foods,Food,33,$396.00,0,$0.00,-$6.60,$389.40,$33.88,ea,33,0
+Happy Hour Fries,Regular,"",Total foods,Food,56,$448.00,0,$0.00,-$13.20,$434.80,$37.15,ea,56,0
+Happy Hour Hot Honey Wings,Regular,"",Total foods,Food,17,$136.00,0,$0.00,$0.00,$136.00,$11.73,ea,17,0
+Happy Hour Korean Wings,Regular,"",Total foods,Food,28,$224.00,0,$0.00,$0.00,$224.00,$19.32,ea,28,0
+Happy Hour Shrimp Tacos,Regular,"",Total foods,Food,20,$240.00,0,$0.00,-$3.00,$237.00,$20.75,ea,20,0
+Happy Hour Szechuan Wings,Regular,"",Total foods,Food,36,$288.00,0,$0.00,-$17.20,$270.80,$24.05,ea,36,0
+Happy Hour Yam Tacos,Regular,"",Total foods,Food,7,$84.00,0,$0.00,-$3.60,$80.40,$6.95,ea,7,0
+Kale Salad,Regular,"",Total foods,Food,811,"$14,045.00",-2,-$38.00,-$578.52,"$13,428.48","$1,155.35",ea,811,-2
+Kale and Ricotta Rangoon (6),Regular,"",Total foods,Food,54,$648.00,0,$0.00,$0.00,$648.00,$56.02,ea,54,0
+Korean Fried Chicken Sandwich,Regular,"",Total foods,Food,1132,"$22,667.00",-3,-$60.00,-$292.00,"$22,315.00","$1,923.55",ea,1132,-3
+Maitaki Tacos,Regular,"",Total foods,Food,151,"$2,718.00",0,$0.00,-$36.00,"$2,682.00",$229.10,ea,151,0
+Marinated Beets,Regular,"",Total foods,Food,19,$266.00,0,$0.00,-$27.30,$238.70,$20.63,ea,19,0
+Meatballs,Regular,"",Total foods,Food,123,"$1,845.00",-1,-$15.00,-$49.50,"$1,780.50",$153.43,ea,123,-1
+Mezze Platter,Regular,"",Total foods,Food,20,$440.00,0,$0.00,-$50.60,$389.40,$33.62,ea,20,0
+Olives,Regular,"",Total foods,Food,168,"$1,344.00",0,$0.00,-$29.30,"$1,314.70",$113.57,ea,168,0
+Pastrami Tacos,Regular,"",Total foods,Food,66,$990.00,0,$0.00,-$9.75,$980.25,$83.82,ea,66,0
+Pork Belly Bahn Mi,Regular,"",Total foods,Food,240,"$4,271.00",0,$0.00,-$43.92,"$4,227.08",$362.28,ea,240,0
+Pork Gyoza,Regular,"",Total foods,Food,45,$540.00,0,$0.00,-$31.20,$508.80,$43.94,ea,45,0
+Pork gyoza,Regular,"",Total foods,Food,20,$240.00,0,$0.00,$0.00,$240.00,$20.70,ea,20,0
+Posta Cartagenera,Regular,"",Total foods,Food,12,$144.00,0,$0.00,$0.00,$144.00,$12.46,ea,12,0
+Salted Cheese Yuca Waffle,Regular,"",Total foods,Food,3,$33.00,0,$0.00,$0.00,$33.00,$2.85,ea,3,0
+Shishito Peppers,Regular,"",Total foods,Food,251,"$3,012.00",0,$0.00,-$39.60,"$2,972.40",$256.93,ea,251,0
+Shrimp aguachile,Regular,"",Total foods,Food,26,$520.00,0,$0.00,-$14.00,$506.00,$44.11,ea,26,0
+Steak Frites!,Regular,"",Total foods,Food,384,"$10,752.00",0,$0.00,-$264.95,"$10,487.05",$904.93,ea,384,0
+Steak Tartare,Regular,"",Total foods,Food,268,"$4,556.00",0,$0.00,-$81.81,"$4,474.19",$386.83,ea,268,0
+The Cheeseburger,Regular,"",Total foods,Food,2318,"$46,793.00",-4,-$81.00,"-$1,428.93","$45,283.07","$3,895.69",ea,2318,-4
+The Fried Chicken Sandwich,Regular,"",Total foods,Food,1458,"$28,858.00",-5,-$99.00,-$765.24,"$27,993.76","$2,419.77",ea,1458,-5
+Whipped ricotta,Regular,"",Total foods,Food,31,$334.00,0,$0.00,-$1.50,$332.50,$28.63,ea,31,0
+Wings,Regular,"",Total foods,Food,695,"$12,788.00",-1,-$16.00,-$209.34,"$12,562.66","$1,086.81",ea,695,-1
+Yuzu marinated cucumber,Regular,"",Total foods,Food,2,$18.00,0,$0.00,$0.00,$18.00,$1.56,ea,2,0
+extra bread,Regular,"",Total foods,Food,24,$60.00,0,$0.00,$0.00,$60.00,$5.25,ea,24,0
+Al Pastor Shrimp Tacos (2),Regular,"",Total foods,Online Food,292,"$4,380.00",-1,-$15.00,-$50.44,"$4,314.56",$369.93,ea,292,-1
+Baja Fish Taco's,Regular,"",Total foods,Online Food,81,"$1,143.00",-1,-$15.00,$0.00,"$1,128.00",$97.42,ea,81,-1
+Beyond Cheeseburger,Regular,"",Total foods,Online Food,25,$486.00,0,$0.00,$0.00,$486.00,$41.94,ea,25,0
+Blistered shishito peppers,Regular,"",Total foods,Online Food,52,$624.00,0,$0.00,$0.00,$624.00,$53.77,ea,52,0
+Bread +Butter,Regular,"",Total foods,Online Food,43,$215.00,0,$0.00,$0.00,$215.00,$18.49,ea,43,0
+Butterbean Soup bowl,Regular,"",Total foods,Online Food,18,$216.00,0,$0.00,$0.00,$216.00,$18.61,ea,18,0
+Charred Garnet Yam Tacos,Regular,"",Total foods,Online Food,21,$357.00,0,$0.00,$0.00,$357.00,$30.79,ea,21,0
+Chicken Banh Mi,Regular,"",Total foods,Online Food,107,"$1,819.00",0,$0.00,-$22.95,"$1,796.05",$156.16,ea,107,0
+Chicken Liver Mousse,Regular,"",Total foods,Online Food,19,$285.00,0,$0.00,$0.00,$285.00,$24.54,ea,19,0
+Creme Brûlée,Regular,"",Total foods,Online Food,11,$100.00,0,$0.00,$0.00,$100.00,$8.64,ea,11,0
+Crispy Brussel Sprouts,Regular,"",Total foods,Online Food,93,"$1,116.00",0,$0.00,$0.00,"$1,116.00",$96.13,ea,93,0
+Crispy Sweet Potatoes,Regular,"",Total foods,Online Food,10,$90.00,0,$0.00,$0.00,$90.00,$7.79,ea,10,0
+Endive Salad,Regular,"",Total foods,Online Food,5,$70.00,0,$0.00,$0.00,$70.00,$6.05,ea,5,0
+Ensenada Hot Dog,Regular,"",Total foods,Online Food,41,$574.00,-1,-$14.00,$0.00,$560.00,$48.40,ea,41,-1
+Fish & Chips,Regular,"",Total foods,Online Food,80,"$1,680.00",0,$0.00,$0.00,"$1,680.00",$144.81,ea,80,0
+French Fries w /calabrian chili aioli,Regular,"",Total foods,Online Food,207,"$1,863.00",-2,-$18.00,$0.00,"$1,845.00",$159.55,ea,207,-2
+French Onion Dip & Chips,Regular,"",Total foods,Online Food,55,$495.00,-1,-$9.00,$0.00,$486.00,$41.98,ea,55,-1
+Grilled Spanish Octopus,Regular,"",Total foods,Online Food,17,$442.00,0,$0.00,$0.00,$442.00,$38.09,ea,17,0
+Kale Caesar Salad,Regular,"",Total foods,Online Food,32,$474.00,-1,-$13.00,$0.00,$461.00,$39.75,ea,32,-1
+Kale and Ricotta Rangoon (6),Regular,"",Total foods,Online Food,2,$24.00,0,$0.00,$0.00,$24.00,$2.08,ea,2,0
+Katsu Curry Dog,Regular,"",Total foods,Online Food,94,"$1,316.00",-1,-$14.00,-$24.50,"$1,277.50",$110.40,ea,94,-1
+Korean Fried Chicken Sandwich,Regular,"",Total foods,Online Food,49,$959.00,0,$0.00,$0.00,$959.00,$82.73,ea,49,0
+Korean Fried Chicken wings,Regular,"",Total foods,Online Food,15,$285.00,0,$0.00,$0.00,$285.00,$24.60,ea,15,0
+"Korean Fried, Chicken wings",Regular,"",Total foods,Online Food,25,$475.00,0,$0.00,$0.00,$475.00,$41.00,ea,25,0
+Maitake Mushroom Tacos (4),Regular,"",Total foods,Online Food,6,$108.00,0,$0.00,$0.00,$108.00,$9.30,ea,6,0
+Maple Glazed Carrots,Regular,"",Total foods,Online Food,27,$243.00,0,$0.00,$0.00,$243.00,$21.05,ea,27,0
+Marinated Olives,Regular,"",Total foods,Online Food,28,$224.00,-2,-$16.00,$0.00,$208.00,$17.94,ea,28,-2
+Mezze Platter,Regular,"",Total foods,Online Food,4,$88.00,0,$0.00,$0.00,$88.00,$7.60,ea,4,0
+Popcorn Chicken,Regular,"",Total foods,Online Food,177,"$2,478.00",-2,-$28.00,-$48.30,"$2,401.70",$206.82,ea,177,-2
+Pork Belly banh mi,Regular,"",Total foods,Online Food,2,$36.00,0,$0.00,$0.00,$36.00,$3.10,ea,2,0
+Pork Meatballs,Regular,"",Total foods,Online Food,54,$810.00,0,$0.00,$0.00,$810.00,$69.69,ea,54,0
+Roasted Cauliflower,Regular,"",Total foods,Online Food,33,$462.00,0,$0.00,-$14.00,$448.00,$38.72,ea,33,0
+Shrimp Double Decker Tacos (4),Regular,"",Total foods,Online Food,202,"$4,242.00",0,$0.00,-$175.61,"$4,066.39",$353.22,ea,202,0
+Shrimp Louie Roll,Regular,"",Total foods,Online Food,52,$884.00,0,$0.00,-$2.55,$881.45,$76.16,ea,52,0
+Shrimp Tostada,Regular,"",Total foods,Online Food,43,$860.00,0,$0.00,-$90.65,$769.35,$64.08,ea,43,0
+Spanish Twist Churros,Regular,"",Total foods,Online Food,22,$203.00,0,$0.00,$0.00,$203.00,$17.52,ea,22,0
+Steak Frites,Regular,"",Total foods,Online Food,19,$532.00,0,$0.00,$0.00,$532.00,$45.85,ea,19,0
+Steak Tartare,Regular,"",Total foods,Online Food,18,$306.00,0,$0.00,$0.00,$306.00,$26.41,ea,18,0
+The Cheeseburger,Regular,"",Total foods,Online Food,145,"$2,887.00",0,$0.00,$0.00,"$2,887.00",$249.05,ea,145,0
+The Fried Chicken Sandwich,Regular,"",Total foods,Online Food,110,"$2,149.00",0,$0.00,$0.00,"$2,149.00",$185.40,ea,110,0
+Yam Tacos,Regular,"",Total foods,Online Food,60,$900.00,-1,-$15.00,-$11.25,$873.75,$74.94,ea,60,-1
+2XL Shirt,Regular,"",Total merch,Merch,3,$75.00,0,$0.00,$0.00,$75.00,$6.47,ea,3,0
+Large Shirt,Regular,"",Total merch,Merch,24,$600.00,0,$0.00,-$3.75,$596.25,$51.46,ea,24,0
+Medium Shirt,Regular,"",Total merch,Merch,22,$550.00,0,$0.00,-$3.75,$546.25,$47.15,ea,22,0
+Pint Glass,Regular,"",Total merch,Merch,20,$100.00,0,$0.00,$0.00,$100.00,$8.60,ea,20,0
+Small Shirt,Regular,"",Total merch,Merch,8,$200.00,0,$0.00,$0.00,$200.00,$17.26,ea,8,0
+Crafty Fox T-Shirt,Large,"",Total merch,Online Merch,2,$50.00,0,$0.00,$0.00,$50.00,$4.30,ea,2,0
+2018 Les Vins Pirouettes Saveurs de Claude,Glass,"",Wines,Online Wine,3,$45.00,0,$0.00,$0.00,$45.00,$3.87,ea,3,0
+Divergent Clarksburg Malbec,Regular,"",Wines,Online Wine,13,$156.00,0,$0.00,$0.00,$156.00,$13.47,ea,13,0
+"Divergent Vine 2021 ""Gold Dust Vineyard"" Estate Rose",Regular,"",Wines,Online Wine,7,$77.00,0,$0.00,$0.00,$77.00,$6.65,ea,7,0
+Divergent Vine Foxy Blanc - White Rhone blend,Regular,"",Wines,Online Wine,9,$99.00,0,$0.00,$0.00,$99.00,$8.55,ea,9,0
+Divergent Vine Grenache Noir,Regular,"",Wines,Online Wine,5,$60.00,0,$0.00,$0.00,$60.00,$5.17,ea,5,0
+Field Recordings Skins Orange Wine 2021,Bottle,"",Wines,Online Wine,1,$45.00,0,$0.00,$0.00,$45.00,$3.88,ea,1,0
+Field Recordings Skins Orange Wine 2021,Glass,"",Wines,Online Wine,3,$45.00,0,$0.00,$0.00,$45.00,$3.88,ea,3,0
+Foxy Blanc,Regular,"",Wines,Online Wine,315,"$3,465.00",-2,-$22.00,-$62.15,"$3,380.85",$290.23,ea,315,-2
+"Picobello"" Grauer Burgunder 2021Orange Wine",Glass,"",Wines,Online Wine,4,$60.00,0,$0.00,$0.00,$60.00,$5.16,ea,4,0
+Vin Blanc,Regular,"",Wines,Online Wine,15,$180.00,0,$0.00,-$12.00,$168.00,$15.52,ea,15,0
+$11 Wine,Regular,"",Wines,Wine,52,$572.00,-1,-$11.00,-$12.65,$548.35,$47.34,ea,52,-1
+$12 Wine,Regular,"",Wines,Wine,35,$420.00,-1,-$12.00,-$1.80,$406.20,$35.05,ea,35,-1
+Bozzole  lambrusco,Regular,"",Wines,Wine,13,$195.00,0,$0.00,-$2.25,$192.75,$16.59,ea,13,0
+Divergent Estate Rose,Regular,"",Wines,Wine,262,"$2,882.00",0,$0.00,-$23.10,"$2,858.90",$246.86,ea,262,0
+Divergent Grenache Noir,Regular,"",Wines,Wine,119,"$1,428.00",0,$0.00,-$29.40,"$1,398.60",$120.54,ea,119,0
+Divergent Malbec,Regular,"",Wines,Wine,214,"$2,568.00",0,$0.00,-$12.00,"$2,556.00",$220.30,ea,214,0
+Field Recordings Skins,Regular,"",Wines,Wine,12,$180.00,0,$0.00,-$45.00,$135.00,$11.62,ea,12,0
+Garcia Pérez – Rosado Ancestral,Regular,"",Wines,Wine,5,$75.00,0,$0.00,-$2.25,$72.75,$6.27,ea,5,0
+"Halkia ""Reddish"" Agiorgitiko",Regular,"",Wines,Wine,5,$80.00,0,$0.00,$0.00,$80.00,$6.90,ea,5,0
+Happy Hour Wine,Regular,"",Wines,Wine,38,$342.00,0,$0.00,$0.00,$342.00,$29.57,ea,38,0
+Les Vins Pirouettes,Regular,"",Wines,Wine,6,$90.00,0,$0.00,$0.00,$90.00,$7.75,ea,6,0
+Picobello,Regular,"",Wines,Wine,14,$210.00,0,$0.00,-$9.00,$201.00,$17.34,ea,14,0
+Recording Red Blend,Regular,"",Wines,Wine,59,$708.00,0,$0.00,$0.00,$708.00,$58.99,ea,59,0
+Skins Orange Wine,Regular,"",Wines,Wine,11,$132.00,0,$0.00,$0.00,$132.00,$11.41,ea,11,0
+Vin Rouge,Regular,"",Wines,Wine,12,$144.00,0,$0.00,$0.00,$144.00,$12.40,ea,12,0
+Bozzole Incantabiss lambrusco,Regular,"",Wines,Wine Bottles,2,$90.00,0,$0.00,$0.00,$90.00,$7.76,ea,2,0
+Field Recordings Skins Bottle,Regular,"",Wines,Wine Bottles,3,$135.00,0,$0.00,-$6.75,$128.25,$11.06,ea,3,0
+Garcia Pérez – Rosado Ancestral Bottle,Regular,"",Wines,Wine Bottles,3,$135.00,0,$0.00,$0.00,$135.00,$11.63,ea,3,0
+Picobello Bottle,Regular,"",Wines,Wine Bottles,2,$90.00,0,$0.00,$0.00,$90.00,$7.76,ea,2,0
+Uivo Renegado,Regular,"",Wines,Wine Bottles,3,$45.00,0,$0.00,-$2.25,$42.75,$3.69,ea,3,0
+Uivo Renegado Bottle,Regular,"",Wines,Wine Bottles,1,$45.00,0,$0.00,$0.00,$45.00,$3.88,ea,1,0
+Custom Amount,No description,"",Other Categories,Uncategorized,33,$446.15,0,$0.00,-$6.00,$440.15,$30.69,ea,33,0
+Allagash White,16oz Draft,"",Other Categories,Uncategorized,9,$81.00,0,$0.00,$0.00,$81.00,$6.99,ea,9,0
+Alvarado Contains No Juice,Regular,"",Other Categories,Uncategorized,1,$9.00,0,$0.00,$0.00,$9.00,$0.78,ea,1,0
+Alvarado Street Glow Getter,130z Draft,"",Other Categories,Uncategorized,9,$81.00,0,$0.00,$0.00,$81.00,$6.98,ea,9,0
+Alvarado Street Mai tai,Regular,"",Other Categories,Uncategorized,9,$81.00,0,$0.00,$0.00,$81.00,$7.00,ea,9,0
+Alvarado Street Nelson Baby,Regular,"",Other Categories,Uncategorized,1,$9.00,0,$0.00,$0.00,$9.00,$0.78,ea,1,0
+Alvarado Street Orangeberry Crisp,9oz Draft,"",Other Categories,Uncategorized,5,$45.00,0,$0.00,$0.00,$45.00,$3.87,ea,5,0
+Alvarado Street Skaze Race,Regular,"",Other Categories,Uncategorized,1,$9.00,0,$0.00,$0.00,$9.00,$0.78,ea,1,0
+Armistice Citra Salad,Regular,"",Other Categories,Uncategorized,2,$18.00,0,$0.00,$0.00,$18.00,$1.56,ea,2,0
+Armistice Cloud Factory,Regular,"",Other Categories,Uncategorized,1,$9.00,0,$0.00,$0.00,$9.00,$0.00,ea,1,0
+Armistice Feliz Sabado,Regular,"",Other Categories,Uncategorized,2,$18.00,0,$0.00,$0.00,$18.00,$1.55,ea,2,0
+Barebottle - The Mad Chai - enlist,16oz draft,"",Other Categories,Uncategorized,3,$27.00,0,$0.00,$0.00,$27.00,$1.56,ea,3,0
+Barebottle - The Mad Chai-entist,16oz draft,"",Other Categories,Uncategorized,5,$45.00,0,$0.00,$0.00,$45.00,$0.00,ea,5,0
+Barebottle Cooler Cactus,9oz Draft,"",Other Categories,Uncategorized,8,$72.00,0,$0.00,$0.00,$72.00,$6.22,ea,8,0
+Barebottle Hella Hetchy,Regular,"",Other Categories,Uncategorized,13,$117.00,0,$0.00,$0.00,$117.00,$10.10,ea,13,0
+Barebottle Studio Sauvin,Regular,"",Other Categories,Uncategorized,1,$9.00,0,$0.00,$0.00,$9.00,$0.78,ea,1,0
+Barebottle twilight suds,Regular,"",Other Categories,Uncategorized,5,$45.00,0,$0.00,$0.00,$45.00,$3.89,ea,5,0
+Bottle Logic - Aurum Orbitals,7oz Draft,"",Other Categories,Uncategorized,2,$24.00,0,$0.00,$0.00,$24.00,$2.08,ea,2,0
+Bozzole Incantabiss Lambrusco 2020,Glass,"",Other Categories,Uncategorized,2,$30.00,0,$0.00,$0.00,$30.00,$2.58,ea,2,0
+Cellarmaker  Brass Boots,Regular,"",Other Categories,Uncategorized,1,$9.00,0,$0.00,$0.00,$9.00,$0.78,ea,1,0
+Cellarmaker - Dank Williams,Regular,"",Other Categories,Uncategorized,1,$9.00,0,$0.00,$0.00,$9.00,$0.78,ea,1,0
+Cellarmaker - Lost Wisdom Saison Solera,9oz Draft,"",Other Categories,Uncategorized,13,$156.00,0,$0.00,$0.00,$156.00,$9.30,ea,13,0
+Cellarmaker Abel Tasman,16oz draft,"",Other Categories,Uncategorized,23,$207.00,0,$0.00,$0.00,$207.00,$8.55,ea,23,0
+Cellarmaker Dank Statement,Regular,"",Other Categories,Uncategorized,1,$9.00,0,$0.00,$0.00,$9.00,$0.78,ea,1,0
+Cellarmaker Galaxy Blaster,Regular,"",Other Categories,Uncategorized,2,$18.00,0,$0.00,$0.00,$18.00,$0.00,ea,2,0
+Cellarmaker Highway Dankerzone,Regular,"",Other Categories,Uncategorized,1,$9.00,0,$0.00,$0.00,$9.00,$0.78,ea,1,0
+Cellarmaker Maximum Joy,Regular,"",Other Categories,Uncategorized,7,$63.00,0,$0.00,$0.00,$63.00,$5.45,ea,7,0
+Cellarmaker Mo’ Citra,Regular,"",Other Categories,Uncategorized,15,$135.00,0,$0.00,$0.00,$135.00,$11.68,ea,15,0
+Cellarmaker Mo’ Idaho 7,Regular,"",Other Categories,Uncategorized,16,$144.00,0,$0.00,$0.00,$144.00,$4.65,ea,16,0
+Cellarmaker Orange Julian,Regular,"",Other Categories,Uncategorized,1,$9.00,0,$0.00,$0.00,$9.00,$0.77,ea,1,0
+Cellarmaker Tiny Dankster,Regular,"",Other Categories,Uncategorized,1,$9.00,0,$0.00,$0.00,$9.00,$0.78,ea,1,0
+Crisp High Five,Regular,"",Other Categories,Uncategorized,1,$9.00,0,$0.00,$0.00,$9.00,$0.78,ea,1,0
+Crystal Waves,Regular,"",Other Categories,Uncategorized,1,$9.00,0,$0.00,$0.00,$9.00,$0.78,ea,1,0
+Ddh strata salad,Regular,"",Other Categories,Uncategorized,3,$27.00,0,$0.00,$0.00,$27.00,$2.34,ea,3,0
+Fair Isle Lora,Regular,"",Other Categories,Uncategorized,1,$12.00,0,$0.00,$0.00,$12.00,$1.03,ea,1,0
+Fieldwork - Fog Ripper,9oz Draft,"",Other Categories,Uncategorized,8,$72.00,0,$0.00,$0.00,$72.00,$2.33,ea,8,0
+Fieldwork Critical Excess,7oz Draft,"",Other Categories,Uncategorized,4,$36.00,0,$0.00,$0.00,$36.00,$0.78,ea,4,0
+Fieldwork Destination Unknown,13oz Draft,"",Other Categories,Uncategorized,3,$27.00,0,$0.00,$0.00,$27.00,$2.32,ea,3,0
+Fieldwork Saint Thomas,Regular,"",Other Categories,Uncategorized,4,$36.00,0,$0.00,$0.00,$36.00,$3.11,ea,4,0
+Fieldwork Supreme Diesel,Regular,"",Other Categories,Uncategorized,5,$45.00,0,$0.00,$0.00,$45.00,$3.89,ea,5,0
+Fieldwork fast food French toast,7oz draft,"",Other Categories,Uncategorized,5,$45.00,0,$0.00,$0.00,$45.00,$3.88,ea,5,0
+Fieldwork video Armageddon,Regular,"",Other Categories,Uncategorized,4,$36.00,0,$0.00,$0.00,$36.00,$3.12,ea,4,0
+Fieldwork- Doomsday Protocol,Regular,"",Other Categories,Uncategorized,12,$108.00,0,$0.00,$0.00,$108.00,$9.33,ea,12,0
+Fonta Flora Decoy,Regular,"",Other Categories,Uncategorized,2,$24.00,0,$0.00,$0.00,$24.00,$2.07,ea,2,0
+Garcia Pérez – Rosado Ancestral 2021,Glass,"",Other Categories,Uncategorized,1,$15.00,0,$0.00,$0.00,$15.00,$1.29,ea,1,0
+Ghost Town - Evil on Purpose,7oz Draft,"",Other Categories,Uncategorized,11,$110.00,0,$0.00,$0.00,$110.00,$7.74,ea,11,0
+Ghost Town - Hirsute,9oz Draft,"",Other Categories,Uncategorized,7,$84.00,0,$0.00,$0.00,$84.00,$6.22,ea,7,0
+Ghost Town - Lurid Lupulin,Regular,"",Other Categories,Uncategorized,5,$45.00,0,$0.00,$0.00,$45.00,$3.89,ea,5,0
+Ghost Town - Mordant,Regular,"",Other Categories,Uncategorized,5,$45.00,0,$0.00,$0.00,$45.00,$3.89,ea,5,0
+Ghost Town Hymn of Nelson,Regular,"",Other Categories,Uncategorized,1,$9.00,0,$0.00,$0.00,$9.00,$0.77,ea,1,0
+Ghost Town Nose Gobblin,7oz Draft,"",Other Categories,Uncategorized,1,$10.00,0,$0.00,$0.00,$10.00,$0.00,ea,1,0
+Ghost Town Pale Horse,Regular,"",Other Categories,Uncategorized,1,$9.00,0,$0.00,$0.00,$9.00,$0.78,ea,1,0
+Ghost town ossuary,Regular,"",Other Categories,Uncategorized,9,$81.00,0,$0.00,$0.00,$81.00,$6.99,ea,9,0
+Great Notion - Groundhog Day,Regular,"",Other Categories,Uncategorized,4,$36.00,0,$0.00,$0.00,$36.00,$3.10,ea,4,0
+Guinness,Regular,"",Other Categories,Uncategorized,16,$144.00,0,$0.00,$0.00,$144.00,$12.46,ea,16,0
+HUMBLE Sea Foggy Dreamboat,Regular,"",Other Categories,Uncategorized,4,$36.00,0,$0.00,$0.00,$36.00,$3.11,ea,4,0
+HUMBLE Sea jellyfish juggling,Regular,"",Other Categories,Uncategorized,1,$9.00,0,$0.00,$0.00,$9.00,$0.78,ea,1,0
+Henhouse - Big Chicken,Regular,"",Other Categories,Uncategorized,23,$207.00,0,$0.00,$0.00,$207.00,$17.89,ea,23,0
+Hoodie,Regular,"",Other Categories,Uncategorized,3,$135.00,0,$0.00,$0.00,$135.00,$11.65,ea,3,0
+Humble Sea - Helles,16oz draft,"",Other Categories,Uncategorized,14,$126.00,0,$0.00,$0.00,$126.00,$7.76,ea,14,0
+Humble Sea - Pipeline,5oz draft beer,"",Other Categories,Uncategorized,23,$184.00,0,$0.00,$0.00,$184.00,$14.49,ea,23,0
+Humble Sea - Tiny Umbrella,16oz draft,"",Other Categories,Uncategorized,17,$153.00,0,$0.00,$0.00,$153.00,$12.44,ea,17,0
+Humble Sea 6th Anniversary,Regular,"",Other Categories,Uncategorized,4,$36.00,0,$0.00,$0.00,$36.00,$0.00,ea,4,0
+Humble Sea = Darkest Treasurers #1,7oz Draft,"",Other Categories,Uncategorized,2,$24.00,0,$0.00,$0.00,$24.00,$2.07,ea,2,0
+Humble Sea Double Socks and Sandals,Regular,"",Other Categories,Uncategorized,3,$27.00,0,$0.00,$0.00,$27.00,$2.34,ea,3,0
+Humble Sea Helles,Regular,"",Other Categories,Uncategorized,1,$9.00,0,$0.00,$0.00,$9.00,$0.78,ea,1,0
+Humble Sea Juice Bag,Regular,"",Other Categories,Uncategorized,4,$36.00,0,$0.00,$0.00,$36.00,$3.10,ea,4,0
+Humble Sea Lager Language,Regular,"",Other Categories,Uncategorized,5,$45.00,0,$0.00,$0.00,$45.00,$3.90,ea,5,0
+Humble Sea Sea.B.D,Regular,"",Other Categories,Uncategorized,3,$27.00,0,$0.00,$0.00,$27.00,$2.34,ea,3,0
+Humble Sea Wharf Patrol,Regular,"",Other Categories,Uncategorized,8,$72.00,0,$0.00,$0.00,$72.00,$6.24,ea,8,0
+Humble sea socks and sandals,Regular,"",Other Categories,Uncategorized,11,$99.00,0,$0.00,$0.00,$99.00,$8.55,ea,11,0
+Humble sea urchin petting zoo,Regular,"",Other Categories,Uncategorized,1,$9.00,0,$0.00,$0.00,$9.00,$0.78,ea,1,0
+Mai Tai,Regular,"",Other Categories,Uncategorized,2,$18.00,0,$0.00,$0.00,$18.00,$1.55,ea,2,0
+Mo on Mo,Regular,"",Other Categories,Uncategorized,1,$9.00,0,$0.00,$0.00,$9.00,$0.78,ea,1,0
+"Moonraker - Cranberry, lemon, lime",9oz Draft,"",Other Categories,Uncategorized,7,$63.00,0,$0.00,$0.00,$63.00,$5.44,ea,7,0
+Moonraker - What Would Cletus Do,13oz Draft,"",Other Categories,Uncategorized,4,$36.00,0,$0.00,$0.00,$36.00,$0.78,ea,4,0
+Olfactory Vibration Theory,Regular,"",Other Categories,Uncategorized,5,$45.00,0,$0.00,$0.00,$45.00,$3.88,ea,5,0
+Original Pattern - Country Doctor,16oz draft,"",Other Categories,Uncategorized,7,$63.00,0,$0.00,$0.00,$63.00,$5.42,ea,7,0
+Original Pattern - Crosshatch,16oz draft,"",Other Categories,Uncategorized,9,$81.00,0,$0.00,$0.00,$81.00,$7.01,ea,9,0
+Original Pattern - Gnomes Gone Rogue,13oz Draft,"",Other Categories,Uncategorized,1,$9.00,0,$0.00,$0.00,$9.00,$0.78,ea,1,0
+Original Pattern - Gnomes Gone Rogue,32oz Crowler - Take Home Only,"",Other Categories,Uncategorized,1,$16.00,0,$0.00,$0.00,$16.00,$1.38,ea,1,0
+Original Pattern - Quantum of Solitude,16oz Draft,"",Other Categories,Uncategorized,15,$135.00,0,$0.00,$0.00,$135.00,$3.90,ea,15,0
+Original Pattern Crop Circles,Regular,"",Other Categories,Uncategorized,2,$18.00,0,$0.00,$0.00,$18.00,$1.56,ea,2,0
+Original Pattern Hella Grungiest,Regular,"",Other Categories,Uncategorized,1,$9.00,0,$0.00,$0.00,$9.00,$0.78,ea,1,0
+Original Pattern Midnight Awakening,Regular,"",Other Categories,Uncategorized,2,$20.00,0,$0.00,$0.00,$20.00,$1.72,ea,2,0
+Original Pattern Mumbo Jumbo Hazy ipa,16oz draft,"",Other Categories,Uncategorized,3,$27.00,0,$0.00,$0.00,$27.00,$2.33,ea,3,0
+Original Pattern Slangin Some Science,Regular,"",Other Categories,Uncategorized,3,$27.00,0,$0.00,$0.00,$27.00,$2.33,ea,3,0
+Original pattern hella grungeist,Regular,"",Other Categories,Uncategorized,2,$18.00,0,$0.00,$0.00,$18.00,$1.56,ea,2,0
+Oude Geuze Tilquin à l'Ancienne,7oz Draft,"",Other Categories,Uncategorized,3,$36.00,0,$0.00,$0.00,$36.00,$3.11,ea,3,0
+Perennial - Salted Chocolate Abraxas,7oz Draft,"",Other Categories,Uncategorized,17,$170.00,0,$0.00,$0.00,$170.00,$11.18,ea,17,0
+Pohjala - CocaBanger,7oz Draft,"",Other Categories,Uncategorized,6,$72.00,0,$0.00,$0.00,$72.00,$6.20,ea,6,0
+Pohjala - Öö,7oz Draft,"",Other Categories,Uncategorized,9,$108.00,0,$0.00,$0.00,$108.00,$7.26,ea,9,0
+Pot de Creme,Regular,"",Other Categories,Uncategorized,1,$9.00,0,$0.00,$0.00,$9.00,$0.78,ea,1,0
+Pure Project Diamond Dust,Regular,"",Other Categories,Uncategorized,4,$36.00,0,$0.00,$0.00,$36.00,$3.12,ea,4,0
+Raging Waters,Regular,"",Other Categories,Uncategorized,4,$48.00,0,$0.00,$0.00,$48.00,$4.13,ea,4,0
+Rare Barrel Blurred Tannat,Regular,"",Other Categories,Uncategorized,6,$60.00,0,$0.00,$0.00,$60.00,$5.17,ea,6,0
+Rissian River Blind Pig,Regular,"",Other Categories,Uncategorized,1,$9.00,0,$0.00,$0.00,$9.00,$0.77,ea,1,0
+Roasted Cauliflower,Regular,"",Other Categories,Uncategorized,1,$14.00,0,$0.00,$0.00,$14.00,$1.21,ea,1,0
+Russian River - Intinction Merlot,Regular,"",Other Categories,Uncategorized,4,$40.00,0,$0.00,$0.00,$40.00,$3.44,ea,4,0
+Russian River - Velvet Glow,16oz draft,"",Other Categories,Uncategorized,5,$45.00,0,$0.00,$0.00,$45.00,$3.88,ea,5,0
+Russian River - velvet glow,16oz draft,"",Other Categories,Uncategorized,2,$18.00,0,$0.00,$0.00,$18.00,$0.00,ea,2,0
+Russian River Blind Pig,Regular,"",Other Categories,Uncategorized,6,$54.00,0,$0.00,$0.00,$54.00,$4.67,ea,6,0
+Russian River Damnation,Regular,"",Other Categories,Uncategorized,1,$9.00,0,$0.00,$0.00,$9.00,$0.78,ea,1,0
+Russian River Hop Growers HGTS04,Regular,"",Other Categories,Uncategorized,1,$9.00,0,$0.00,$0.00,$9.00,$0.78,ea,1,0
+Russian River Robert,Regular,"",Other Categories,Uncategorized,1,$9.00,0,$0.00,$0.00,$9.00,$0.78,ea,1,0
+Russian River STS,Regular,"",Other Categories,Uncategorized,5,$45.00,0,$0.00,$0.00,$45.00,$3.90,ea,5,0
+Russian River STS pils,Regular,"",Other Categories,Uncategorized,1,$9.00,0,$0.00,$0.00,$9.00,$0.78,ea,1,0
+Russian River Velvet Glow,16oz draft,"",Other Categories,Uncategorized,8,$72.00,0,$0.00,$0.00,$72.00,$0.78,ea,8,0
+Sante 1662,Regular,"",Other Categories,Uncategorized,2,$18.00,0,$0.00,$0.00,$18.00,$1.56,ea,2,0
+Sante Adairius - 831,Can In House,"",Other Categories,Uncategorized,1,$9.00,0,$0.00,$0.00,$9.00,$0.77,ea,1,0
+Sante Adairius - Animal Dance Party,13oz Draft,"",Other Categories,Uncategorized,10,$90.00,0,$0.00,$0.00,$90.00,$7.75,ea,10,0
+Sante Adairius - Bed Level,Regular,"",Other Categories,Uncategorized,16,$144.00,-1,-$9.00,$0.00,$135.00,$10.90,ea,16,-1
+Sante Adairius Yes Is The Answer,13oz Draft,"",Other Categories,Uncategorized,11,$99.00,0,$0.00,$0.00,$99.00,$6.99,ea,11,0
+Sante Adairius Yes is the Answer,Regular,"",Other Categories,Uncategorized,2,$18.00,0,$0.00,$0.00,$18.00,$1.55,ea,2,0
+Smoked Pastrami Tacos (3),Regular,"",Other Categories,Uncategorized,2,$30.00,0,$0.00,$0.00,$30.00,$2.58,ea,2,0
+Snapple Lemon Tea,Regular,"",Other Categories,Uncategorized,39,$156.00,0,$0.00,-$4.00,$152.00,$12.75,ea,39,0
+Taco Money,Regular,"",Other Categories,Uncategorized,2,$18.00,0,$0.00,$0.00,$18.00,$1.56,ea,2,0
+Temescal Follow The Snow,9oz Draft,"",Other Categories,Uncategorized,2,$18.00,0,$0.00,$0.00,$18.00,$1.56,ea,2,0
+Temescal Follow The Sun,9oz Draft,"",Other Categories,Uncategorized,1,$9.00,0,$0.00,$0.00,$9.00,$0.78,ea,1,0
+Temescal Fruity : Peach & Blueberry,7oz Draft,"",Other Categories,Uncategorized,6,$58.00,0,$0.00,$0.00,$58.00,$4.22,ea,6,0
+Temescal Resting our Eyes,16oz draft,"",Other Categories,Uncategorized,14,$126.00,0,$0.00,$0.00,$126.00,$8.56,ea,14,0
+Temescal pils,Regular,"",Other Categories,Uncategorized,10,$90.00,0,$0.00,$0.00,$90.00,$7.79,ea,10,0
+The Rare Barrel Stone Aged Love,7oz Draft,"",Other Categories,Uncategorized,13,$130.00,0,$0.00,$0.00,$130.00,$7.75,ea,13,0
+Wondrous - Creech,4 Pack - Take Home Only,"",Other Categories,Uncategorized,1,$22.00,0,$0.00,$0.00,$22.00,$1.89,ea,1,0
+Wondrous - Reefer Blues,13oz Draft,"",Other Categories,Uncategorized,1,$9.00,0,$0.00,$0.00,$9.00,$0.00,ea,1,0
+Wondrous - Triple Cuff,9oz Draft,"",Other Categories,Uncategorized,8,$72.00,0,$0.00,$0.00,$72.00,$6.22,ea,8,0
+Wondrous Familiar feel,Regular,"",Other Categories,Uncategorized,5,$45.00,0,$0.00,$0.00,$45.00,$3.89,ea,5,0
+XL Shirt,Regular,"",Other Categories,Uncategorized,11,$275.00,0,$0.00,-$3.75,$271.25,$23.42,ea,11,0
+Coca Cola Can,Regular,"",Other Categories,beverages,263,$789.00,0,$0.00,-$5.63,$783.37,$68.01,ea,263,0
+Lemonata,Regular,"",Other Categories,beverages,78,$234.00,0,$0.00,-$3.00,$231.00,$20.02,ea,78,0
+Perrier Sparking Water,Regular,"",Other Categories,beverages,19,$57.00,0,$0.00,$0.00,$57.00,$4.94,ea,19,0
+Sanpellegrino Limonata,Regular,"",Other Categories,beverages,6,$18.00,0,$0.00,$0.00,$18.00,$1.56,ea,6,0
